@@ -1,8 +1,8 @@
-# BrainWave-
+
 
 # 🧠 BrainWave: Real-Time EEG-Based Brain State Monitoring  
 
-![BrainWave Banner](https://drive.google.com/file/d/1G2FTFFGpHaR-zDla8mhnGMW3AWqODbQg/view?usp=sharing)  
+https://drive.google.com/file/d/1G2FTFFGpHaR-zDla8mhnGMW3AWqODbQg/view?usp=sharing 
 
 > 🚀 A low-cost Brain-Computer Interface (BCI) system that enables **thought-driven wheelchair navigation** using EEG signals and deep learning.  
 
