@@ -51,7 +51,7 @@ Traditional wheelchair control methods (joysticks, voice, eye-tracking) are ofte
 ## ⚙️ System Workflow  
 
 ### 1. EEG Signal Acquisition  
-![EEG Signal Flow]()
+(https://drive.google.com/file/d/1MvSkIdniq7dhOb2CCe1faVhdpchEY7BH/view?usp=sharing)
 
 ### 2. Preprocessing & Noise Reduction  
 - Normalization  
