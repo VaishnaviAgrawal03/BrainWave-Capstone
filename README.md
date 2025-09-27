@@ -2,7 +2,7 @@
 
 # 🧠 BrainWave: Real-Time EEG-Based Brain State Monitoring  
 
-![BrainWave Banner](docs/images/banner.png)  
+![BrainWave Banner](https://drive.google.com/file/d/1G2FTFFGpHaR-zDla8mhnGMW3AWqODbQg/view?usp=sharing)  
 
 > 🚀 A low-cost Brain-Computer Interface (BCI) system that enables **thought-driven wheelchair navigation** using EEG signals and deep learning.  
 
@@ -51,7 +51,7 @@ Traditional wheelchair control methods (joysticks, voice, eye-tracking) are ofte
 ## ⚙️ System Workflow  
 
 ### 1. EEG Signal Acquisition  
-![EEG Signal Flow](docs/images/eeg_flow.png)  
+![EEG Signal Flow]()
 
 ### 2. Preprocessing & Noise Reduction  
 - Normalization  
@@ -59,7 +59,7 @@ Traditional wheelchair control methods (joysticks, voice, eye-tracking) are ofte
 - Feature extraction  
 
 ### 3. Deep Learning Model  
-![CNN-LSTM Model](docs/images/model_architecture.png)  
+![CNN-LSTM Model] 
 - CNN extracts **spatial features**  
 - LSTM captures **temporal dynamics**  
 
